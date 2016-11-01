@@ -1,4 +1,4 @@
-package com.erebor.utils;
+package com.fiapbank.utils;
 
 import java.io.File;
 import java.io.FileInputStream;

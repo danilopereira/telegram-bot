@@ -1,8 +1,8 @@
-package com.erebor.application;
+package com.fiapbank.application;
 
 import java.util.List;
 
-import com.erebor.utils.PropertiesUtils;
+import com.fiapbank.utils.PropertiesUtils;
 import com.pengrad.telegrambot.TelegramBot;
 import com.pengrad.telegrambot.TelegramBotAdapter;
 import com.pengrad.telegrambot.model.Update;
